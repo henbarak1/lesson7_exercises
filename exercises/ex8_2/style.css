@@ -1,0 +1,14 @@
+#outer {
+    width: 100px;
+    height: 100px;
+    background: rgb(0, 242, 255);
+    font-size: 25px;
+}
+ #inner{
+    position:relative ;
+    
+    width: 50%;
+    height: 50%;
+    background: green;
+    top: 10px;
+}

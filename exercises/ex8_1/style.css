@@ -1,0 +1,13 @@
+#outer {
+    width: 100px;
+    height: 100px;
+    background: rgb(0, 242, 255);
+}
+ #inner{
+    position:relative ;
+    margin-top: 100px;
+    width: 50%;
+    height: 50%;
+    background: green;
+    top: 10px;
+}

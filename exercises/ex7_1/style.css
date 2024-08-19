@@ -1,0 +1,95 @@
+
+.background{
+    background-color: rgb(59, 59, 130);
+
+}
+.main{
+  text-align: center;
+  background-color: inherit;
+   
+}
+h2{
+    color: white;
+}
+
+
+
+
+#btn_1_left{
+    background-color: blue;
+    color: white;
+    
+    height: 5vw;
+}
+#btn_1_right{
+    background-color: yellow;
+    color: white;
+    border-color: rgb(221, 0, 255);
+    height: 2.25vw;
+    
+}
+#btn_2_left{
+    background-color: green;
+    color: white;
+    height: 5vw;
+    border-radius: 5px;
+}
+#btn_2_right{
+    background-color: red;
+    color: white;
+    height: 2.25vw;
+    border-radius: 5px;
+    
+}
+#btn_3_left{
+    background-color: transparent;
+    color: white;
+    border-color: red;
+    height: 5vw;
+}
+#btn_3_right{
+    background-color: inherit;
+    color: white;
+    border-color: rgb(221, 0, 255);
+    height: 2.25vw;
+    
+}
+
+
+
+
+#btn_4_left{
+    background-color: transparent;
+    color: white;
+    border-color: rgb(229, 255, 0);
+    height: 5vw;
+    border-radius: 5px;
+}
+#btn_4_right{
+    background-color: inherit;
+    color: white;
+    border-color: rgb(0, 217, 255);
+    height: 2.25vw;
+    border-radius: 5px;
+    
+}
+
+
+.btn_1{
+margin-right: 6vw;
+margin-left: 6vw;
+}
+
+.btn_2{
+margin-right: 6vw;
+margin-left: 6vw;
+}
+.btn_3{
+margin-right: 6vw;
+margin-left: 6vw;
+}
+
+.btn_4{
+margin-right: 6vw;
+margin-left: 6vw;
+}
